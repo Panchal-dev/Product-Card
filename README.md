@@ -14,8 +14,8 @@ A sleek, responsive product card UI component built with pure **HTML & CSS** (Fl
 
 ## 🚀 Live Demo
 
-[![Deploy](https://img.shields.io/badge/Demo-Live%20Preview-brightgreen)](https://panchal-dev.github.io/Product-Card/)  
-👉 **Experience it here:** [Live Demo](https://panchal-dev.github.io/Product-Card/)
+[![Live Demo](https://img.shields.io/badge/Demo-Live-brightgreen)](https://mug-product-card.vercel.app)  
+👉 **Experience it here:** [Live Demo](https://mug-product-card.vercel.app)
 
 ## 🛠️ Installation
 
