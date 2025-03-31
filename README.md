@@ -1,21 +1,31 @@
-# 🛍️ Product Card
+# 🛍️ Modern Product Card | CSS Grid & Flexbox
 
-A simple, stylish **product card** built with **HTML & CSS**.
+![Product Card Preview](./images/demo-large-screen.png)
 
-🚀 **Features**:
+A sleek, responsive product card UI component built with pure **HTML & CSS** (Flexbox & Grid). Perfect for e-commerce websites!
 
-- Responsive design 🌐
-- Attractive UI 🎨
-- Interactive hover effects ✨
+## ✨ Features
 
-## 📷 Preview
+✔ **Fully Responsive** - Works on mobile, tablet & desktop  
+✔ **Modern UI Design** - Clean, minimalist aesthetics  
+✔ **Interactive Elements** - Smooth hover animations  
+✔ **Cross-Browser Compatible** - Tested on Chrome, Firefox, Safari  
+✔ **Lightweight** - No frameworks or libraries
 
-![Product Card Screenshot](./images/demo-larg-screen.png)
+## 🚀 Live Demo
 
-## 🔥 Live Demo
+[![Deploy](https://img.shields.io/badge/Demo-Live%20Preview-brightgreen)](https://panchal-dev.github.io/Product-Card/)  
+👉 **Experience it here:** [Live Demo](https://panchal-dev.github.io/Product-Card/)
 
-👉 [Check it out on GitHub Pages](https://yourusername.github.io/Product-Card/)
+## 🛠️ Installation
 
-## 🛠️ How to Run
+```bash
+# Clone the repository
+git clone https://github.com/Panchal-dev/Product-Card.git
 
-1. Clone the repository:
+# Navigate to project
+cd Product-Card
+
+# Open in browser (no build needed!)
+open index.html
+```
